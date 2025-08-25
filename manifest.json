@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "Strava Auto Inviter",
+  "version": "1.0",
+  "description": "Invite a predefined list of Strava users to group events",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "options.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.strava.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_end"
+    }
+  ],
+  "web_accessible_resources": [
+        {
+            "resources": ["pageScript.js"],
+            "matches": ["https://*.strava.com/*"]
+        }
+    ],
+    "icons": {
+      "128": "icon.png"
+    }
+}
