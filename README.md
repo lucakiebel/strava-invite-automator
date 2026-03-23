@@ -4,10 +4,14 @@ Diese Anleitung zeigt dir, wie du die Chrome-Erweiterung **Strava Invite Automat
 
 ---
 
+## ✅ Schritt 0: Aus dem Chrome Extension Store Installieren
+
+Ab Version 1.1 kann die Erweiterung direkt aus dem Chrome Extension Store geladen werden: [Link zur Store-Seite](https://chromewebstore.google.com/detail/strava-auto-inviter/eeebdejoohhjmpacolmfilhcllfmhomi?authuser=0&hl=de)
+
 ## ✅ Schritt 1: ZIP-Datei herunterladen
 
 Lade die Erweiterung als ZIP-Datei hier herunter:  
-👉 [http://luca.lk/strava-invite-automator.zip](http://luca.lk/strava-invite-automator.zip)
+👉 [https://github.com/lucakiebel/strava-invite-automator/archive/refs/heads/master.zip](https://github.com/lucakiebel/strava-invite-automator/archive/refs/heads/master.zip)
 
 ---
 
